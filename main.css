@@ -10,5 +10,7 @@
 #lightbox:target{
   height:30%;
   width:30%;
+  top:25%;
+  left:25%;
   background-color:lightgrey;
 }
